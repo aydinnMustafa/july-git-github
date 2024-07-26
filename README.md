@@ -2,6 +2,10 @@
 
 
 # july-git-github 2
+
+# july-git-github 2
+branch oluşturulacak
+
 -   git add komutu nedir ne işe yarar?
     dosyada yapılan değişikliklerşi commite gönderme işi yapar.
     
